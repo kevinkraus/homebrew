@@ -1,0 +1,8 @@
+tap caskroom/cask
+install brew-cask
+
+cask install atom 2> /dev/null
+cask install google-chrome 2> /dev/null
+cask install google-drive 2> /dev/null
+cask install java 2> /dev/null
+
