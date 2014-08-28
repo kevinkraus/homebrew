@@ -8,10 +8,10 @@ upgrade
 tap caskroom/cask
 install brew-cask
 
-cask install atom --force
-cask install google-chrome --force
-cask install google-drive --foce
-cask install java --force
-cask install onepassword --force
-cask install google-hangouts --force
+cask install atom
+cask install google-chrome
+cask install google-drive
+cask install java
+cask install onepassword
+cask install google-hangouts
 cask install intellij-idea-ce
