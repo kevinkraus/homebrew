@@ -17,3 +17,4 @@ cask install google-hangouts
 cask install intellij-idea-ce
 
 install git
+install rbenv ruby-build
