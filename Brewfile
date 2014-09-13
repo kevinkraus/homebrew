@@ -15,6 +15,7 @@ cask install java
 cask install onepassword
 cask install google-hangouts
 cask install intellij-idea-ce
+cask install caffeine
 
 install git
 install rbenv ruby-build
