@@ -15,3 +15,5 @@ cask install java
 cask install onepassword
 cask install google-hangouts
 cask install intellij-idea-ce
+
+install git
