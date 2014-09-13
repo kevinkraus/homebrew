@@ -11,3 +11,7 @@ brew bundle
 #Don't overwrite Ruby if it's already installed
 n | rbenv install 2.1.2
 rbenv global 2.1.2
+
+#Install rails and rehash rbenv so that it sees rails
+gem install rails
+rbenv rehash
