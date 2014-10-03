@@ -16,6 +16,8 @@ cask install onepassword
 cask install google-hangouts
 cask install intellij-idea-ce
 cask install caffeine
+cask install vagrant
 
 install git
 install rbenv ruby-build
+install tmux
